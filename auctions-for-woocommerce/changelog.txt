@@ -1,0 +1,40 @@
+*** Auctions for WooCommerce Changelog ***
+
+2022-03-15 - version 1.6
+* Fix: proxy notification in auction history on edit auction page was missing
+* Fix: fatal error on PHP 8.0
+
+2020-11-30 - version 1.5
+* Fix: buy now option
+
+2020-09-05 - version 1.4
+* Fix: translations
+
+2020-08-24 - version 1.3
+* Fix: relist bug
+* Fix: translations
+
+2020-06-18 - version 1.2
+* Fix: auction finish admin email
+* Fix: sql compatibility issue
+* Fix: cronjob for reminder to pay emails
+* Fix: datatables JS load check
+* Fix: problem when live notifications are turned off
+* Fix: problem with bid input value
+
+2020-06-5 - version 1.1
+* Fix: small bugs and typos
+* Add: apply filter to winner display name in history table
+* Add: sortable tables, CSV and Excel export for auction history in wp-admin
+
+2020-05-29 - version 1.0.2
+* Optimizations
+* Versions
+* Fix translating bug
+
+2020-01-28 - version 1.0.1
+* Optimizations
+* Versions
+
+2019-10-29 - version 1.0.0
+* Inital release
