@@ -14,7 +14,7 @@
  * Plugin Name:       Auctions for WooCommerce
  * Plugin URI:        https://wpinstitut.com/auctions-for-woocommerce/
  * Description:       Easily extend WooCommerce with auction features and functionalities.
- * Version:           2.7
+ * Version:           3.7
  * Author:            WPInstitut
  * Author URI:        https://wpinstitut.com/
  * License:           GPL-2.0+
