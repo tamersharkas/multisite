@@ -3,7 +3,7 @@
  * Plugin Name:       Quick Buy Now Button for WooCommerce
  * Plugin URI:        https://woocommerce.com/products/quick-buy-now-button-for-woocommerce/
  * Description:       Buy Now plugin enables you to add a new or replace add to cart with a quick buy button and redirect users to cart, checkout or custom link. (PLEASE TAKE BACKUP BEFORE UPDATING THE PLUGIN).
- * Version:           1.3.6
+ * Version:           1.3.7
  * Author:            Addify
  * Developed By:      Addify
  * Author URI:        http://www.addifypro.com
