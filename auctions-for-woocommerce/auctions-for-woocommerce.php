@@ -27,6 +27,7 @@
  */
 
 // If this file is called directly, abort.
+// update
 if ( ! defined( 'WPINC' ) ) {
 	die;
 }
