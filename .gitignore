@@ -1,0 +1,19 @@
+#################################
+# WPCD Defaults
+#################################
+wp-config.php
+logs/
+filemanager/
+phpmyadmin/
+wp-content/debug.log
+wp-content/downloads
+wp-content/updraft
+*.log
+*.env
+*.env.*
+!.env.example
+#################################
+# WPCD User Provided
+#################################
+
+
